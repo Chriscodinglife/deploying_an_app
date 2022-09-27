@@ -110,3 +110,8 @@
 6. Rules
 7. Feeds
 8. Packages
+
+## Definitions
+
+![1]week2defs_Page_1.png
+![2]week2defs_Page_2.png
