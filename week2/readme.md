@@ -113,5 +113,5 @@
 
 ## Definitions
 
-![1]week2defs_Page_1.png
-![2]week2defs_Page_2.png
+![1](week2defs_Page_1.png)
+![2](week2defs_Page_2.png)
