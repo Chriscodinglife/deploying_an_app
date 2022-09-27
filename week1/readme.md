@@ -1,6 +1,4 @@
-# Week 1
-
-## Intro to MicroServices
+# Intro to MicroServices
 
 Modern software is deplyoed as a service on the internet (SaaS).
 The twelve factor app methodology can be implemented to deploying an app
