@@ -33,6 +33,10 @@ A trigger is a named channel for a class of event
 Triggers can be fired by a user or an external event
 
 Rules associates one trigger with one action
+
+## Glossary Terms
+
+![words](actions.png)
 Rules are automatically enabled when they are created
 Rules causes actions to be triggered since they specifiy one trigger to one action
 
